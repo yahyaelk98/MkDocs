@@ -1,0 +1,10 @@
+site_name: YahyaDocs
+theme: 'material-components'
+theme_dir: 'custom_footer'
+pages:
+    - Inici: index.md
+    - Departament de Tecnologia: dept_tecno.md
+    - Teatre: teatre.md
+    - Footer: footer.md
+    - Contacte: contacte.md
+copyright: 'Copyright © 2019 | Yahya El Kajouai especial dedicación para IAM'
